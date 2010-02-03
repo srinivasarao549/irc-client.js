@@ -1,0 +1,5 @@
+Ask felixge what licence his IRC bots are released under and see if
+it'd be viable to test-drive the features from irc.js[1] into this
+library.
+
+[1] http://github.com/felixge/nodelog/blob/master/lib/irc.js
